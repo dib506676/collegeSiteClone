@@ -1,1 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="dibyanshu.css">
+    <link rel="stylesheet" href="sanskar.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <div class="links">
+            <marquee behavior="alternate" direction="left" onmouseover="this.stop()" onmouseleave="this.start()"> <a
+                    href="#"> NAAC grade A
+                    University&nbsp;&nbsp;|&nbsp;&nbsp; UP
+                    Scholarship Notice 2023-24&nbsp;&nbsp;|&nbsp;&nbsp; PPICEFP-2024&nbsp;&nbsp;|&nbsp;&nbsp;
+                    Advertisement
+                    for JRA
+                    &nbsp;&nbsp;|&nbsp;&nbsp; Position</a></marquee>
+        </div>
+        <hr>
+        <div class="heading">
+            <div class="mmmut">
+                <a href="http://www.mmmut.ac.in/index" target="_blank"><img
+                        src="http://www.mmmut.ac.in/images/logo3.jpg" alt="" class="img1"></a>
+            </div>
+            <div class="banner"><img src="http://www.mmmut.ac.in/images/logo-banner.jpg" alt="" class="img2"></div>
+            <div class="government"> <img src="http://www.mmmut.ac.in/images/Azadi-Ka-Amrit-Mahotsav-Logo.png" alt=""
+                    class="img3">
+                <img src="http://www.mmmut.ac.in/images/G20_India_Logo.png" alt="" class="img4">
+            </div>
+        </div>
+        <div class="menu-bar">
+            <a href="http://www.mmmut.ac.in/index" target="_blank">
+                <img src="994934.png" alt="" class="home"></a>
+            <ul class="main-list">
+                <li><a href="#">The University &nbsp;<i class="fas fa-caret-down"></i></a>
+                <ul class="list2">
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Chancellor</a></li>
+                            <li><a href="#">Vice-Chancellor</a></li>
+                            <li><a href="#">Administration</a></li>
+                            <li><a href="#">Governance</a></li>
+                            <li><a href="#">Strategic Plan</a></li>
+                            <li><a href="#">Organizational Structure</a></li>
+                            <li><a href="#">Acts & Statute</a></li>
+                            <li><a href="#">Location & Campus</a></li>
+                            <li><a href="#">Court Cases</a></li>
+                            <li><a href="#">University logo</a></li>
+                            <li><a href="#">Annual Report</a></li>
+                            <li><a href="#">Photo Gallery</a></li>
+                            <li><a href="#">Video Gallery</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Academics &nbsp;<i class="fas fa-caret-down"></i></a>
+                <ul class="list2 a1">
+                    <li><a href="academics.html" target="_blank">Programmes</a></li>
+                    <li><a href="#">Admission</a></li>
+                    <li><a href="#">Departments</a></li>
+                    <li><a href="#">Ordinance</a></li>
+                    <li><a href="#">Credit Structure and Syllabus</a></li>
+                    <li><a href="#">Time Table</a></li>
+                    <li><a href="#">Fee Structure</a></li>
+                    <li><a href="#">Acadmic Calendar</a></li>
+                    <li><a href="#">Ranking & Accreditation</a></li>
+                    <li><a href="#">E-Learning</a></li>
+                    <li><a href="#">MoU</a></li>
+                </ul></li>
+                <li><a href="#">Research & Development &nbsp;<i class="fas fa-caret-down"></i></a>
+                <ul class="list2 a2">
+                            <li><a href="#">Research Project</a></li>
+                            <li><a href="#">Consultancy</a></li>
+                            <li><a href="#">Publications</a></li>
+                            <li><a href="#">Patents</a></li>
+                            <li><a href="#">Ph.D. Awards</a></li>
+                            <li><a href="#">IQAC</a></li>
+                            <li><a href="#">Entrepreneurship</a></li>
+                            <li><a href="#">Policies And Guidelines</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Campus Facilities &nbsp;<i class="fas fa-caret-down"></i></a>
+                <ul class="list2 a3">
+                    <li><a href="#">Overview</a></li>
+                    <li><a href="#">Library</a></li>
+                    <li><a href="#">Workshop</a></li>
+                    <li><a href="#">IT Resource Center</a></li>
+                    <li><a href="#">Hostel</a></li>
+                    <li><a href="#">Council Of Students Activities</a></li>
+                    <li><a href="#">Other Facilities</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Training & Placement &nbsp;<i class="fas fa-caret-down"></i></a>
+                <ul class="list2 a4">
+                    <li><a href="training.html" target="_blank">Overview</a></li>
+                    <li><a href="#">Placement Brochure</a></li>
+                    <li><a href="#">Placement Policy</a></li>
+                    <li><a href="#">Recruiters</a></li>
+                    <li><a href="#">Placement Statistics</a></li>
+                    <li><a href="#">Gate Result</a></li>
+                    <li><a href="#">Training Activities</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Resume Templates</a></li>
+                    <li><a href="#">T&P Website</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Examination & Results &nbsp;<i class="fas fa-caret-down"></i></a>
+                <ul class="list2 a5">
+                    <li><a href="#">Examination Manual</a></li>
+                    <li><a href="#">Examination Notices</a></li>
+                    <li><a href="#">Important Links & Formats</a></li>
+                    <li><a href="#">Diglocker NAD/ABC</a></li>
+                    <li><a href="#">Degree/Migration</a></li>
+                </ul>
+                </li>
+                <li><a href="#">Carrier</a></li>
+                <li><a href="#">Alumni</a></li>
+                <li><a href="#">NAAC</a></li>
+            </ul>
+
+        </div> 
+        <section class="information">
+            <div class="sliders">
+                <div class="slider">
+                    <input type="radio" name="radio" id="radio1">
+                    <input type="radio" name="radio" id="radio2">
+                    <input type="radio" name="radio" id="radio3">
+                    <input type="radio" name="radio" id="radio4">
+                    <input type="radio" name="radio" id="radio5">
+                    <div class="img first"><img src="http://www.mmmut.ac.in/images/a61.jpg" alt="" class="image"></div>
+                    <div class="img"><img src="http://www.mmmut.ac.in/images/a60b.jpg" alt="" class="image"></div>
+                    <div class="img"><img src="http://www.mmmut.ac.in/images/0.jpg" alt="" class="image"></div>
+                    <div class="img"><img src="http://www.mmmut.ac.in/images/b8.jpg" alt="" class="image"></div>
+                    <div class="img"><img src="http://www.mmmut.ac.in/images/3.jpg" alt="" class="image"></div>
+                </div>
+                <div class="manual">
+                    <label for="radio1" class="mbtn"></label>
+                    <label for="radio2" class="mbtn"></label>
+                    <label for="radio3" class="mbtn"></label>
+                    <label for="radio4" class="mbtn"></label>
+                    <label for="radio5" class="mbtn"></label>
+                </div>
+            </div>
+            <div class="manage">
+                <div class="inf">
+                    <div class="faculty">
+                        <img src="http://www.mmmut.ac.in/images/Chancellor-111.png" alt="">
+                    </div>
+                    <div class="content1">
+                        <span>Smt. Anandiben Patel</span>
+                        <h6>
+                            <a href="http://www.mmmut.ac.in/index">Hon’ble Chancellor & H.E. Governor of U.P.</a>
+                        </h6>
+                        <button class="patel"><a href="http://www.mmmut.ac.in/Chancellor">message</a></button>
+                    </div>
+                </div>
+                <div class="inf">
+                    <div class="faculty">
+                        <img src="http://www.mmmut.ac.in/images/CM-G.png" alt="">
+                    </div>
+                    <div class="content2">
+                        <span>Shri Yogi Adityanath</span>
+                        <h6>
+                            <a href="http://www.mmmut.ac.in/index">Hon'ble Chief Minister of U.P.
+                            </a>
+                        </h6>
+                        <button class="patel"><a href="https://www.youtube.com/watch?v=1gDIVBNOEN8">message</a></button>
+                    </div>
+                </div>
+                <div class="inf">
+                    <div class="faculty"><img src="http://www.mmmut.ac.in/images/ShriAshishPatel.png" alt=""></div>
+                    <div class="content3">
+                        <span>Shri Ashish Patel</span>
+                        <h6>
+                            <a href="http://www.mmmut.ac.in/index">Hon'ble Minister for Technical Education, U.P.
+                            </a>
+                        </h6>
+                        <button class="patel"><a href="http://upted.gov.in/en">message</a></button>
+                    </div>
+                </div>
+                <div class="inf inf4">
+                    <div class="faculty"><img src="http://www.mmmut.ac.in/images/VC2.png" alt=""></div>
+                    <div class="content4">
+                        <span>Prof. Jai Prakash Saini</span>
+                        <h6>
+                            <a href="http://www.mmmut.ac.in/index">Hon'ble Vice Chancellor of mmmut
+                            </a>
+                        </h6>
+                        <button class="patel"><a href="http://www.mmmut.ac.in/Vice-Chancellor">message</a></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="about">
+            <div class="video">
+                <h2>MMMUT at a glance</h2>
+                <iframe width="100%" height="215" src="https://www.youtube.com/embed/SpMVPPIl8x0?si=vNm2N3vq0sjiZ0Xn"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen></iframe>
+            </div>
+            <div class="comment">
+                <h2>WELCOME TO M.M.M.U.T.</h2>
+                <h3 class="madan">Madan Mohan Malaviya University of Technology</h3>
+                <p class="madan2">Madan Mohan Malaviya University of Technology, Gorakhpur has been established in year
+                    2013 by the
+                    Government of Uttar Pradesh in the form of a non-affiliating, teaching and research University after
+                    reconstituting the Madan Mohan Malaviya Engineering College, Gorakhpur which was established in
+                    1962. Fifty-Five batches of students have entered its portals to emerge after four years of rigorous
+                    education under the tutelage of some of the most venerable teachers, engineers ready to face the
+                    world and create new worlds.</p>
+            </div>
+        </section>
+        <section class="footer">
+
+            <div class="last">
+                <div class="aaa"><b>CONTACT US</b> <br>
+                    <br><br><br>
+                    MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, Gorakhpur <br>
+                    Phone: +91-551-2273958, +91-8765783730 <br>
+                    Fax: 0551-2270011 <br>
+                    P.A. to Vice-Chancellor: Sri Pradeep Kant Singh <br>
+                    Phone:+91-9235500502(during office hours) <br>
+                    Email: patovc@mmmut.ac.in <br>
+                    Phone(Information-Cum-Reception Center): 8765783796 <br>
+                    Admission Enquiry: 9235500507, 8765783798 <br>
+                    (On all working days between 9:30 am to 5:00 pm) <br>
+                </div>
+                <div class="bbb">
+                    <b> Media</b><br><br><br><br>
+                    <a href="#">Photo Gallery</a> <br><br>
+                    <a href="#">Video Gallery</a> <br><br>
+                    <a href="#"> Media Coverage</a><br><br>
+                    <a href="#"> Kulgeet-abridged</a><br>
+                    <div class="link"> <i class="fa fa-play" aria-hidden="true"></i>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0:00/3:59</div>
+                    <a href="#">Kulgeet-abridged-Dhun</a>
+                    <div class="link"><i class="fa fa-play"
+                            aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0:00/2:18</div>
+                </div>
+                <div class="ccc">
+                    <b>Important Links</b><br><br><br>
+                    <a href="#">Tender</a><br><br>
+                    <a href="#"> NIRF</a><br><br>
+                    <a href="#"> Useful Links</a><br><br>
+                    <a href="#"> Right to Information</a><br><br>
+                    <a href="#"> Raj Bhawan, U.P.</a><br><br>
+                    <a href="#"> Caste Discrimination Complaint</a>
+                </div>
+                <div class="ddd">
+                    <b>Quick Links</b><br><br><br>
+                    <a href="#">Important Cells</a><br><br>
+                    <a href="#">Webmail</a><br><br>
+                    <a href="#">Invitation for Donations</a><br><br>
+                    <a href="#">Spoken Tutorial IIT Bombay</a><br><br>
+                    <a href="#">NPTEL Video Courses</a>
+                </div>
+            </div>
+            <div class="fff"><b>Get In Touch :</b>
+                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+            </div>
+            <div class="ggg"> This is the official Website of Madan Mohan Malaviya University of Technology. | Best
+                viewed in 1366*768 pixel resolution. <br>
+
+                <a href="#">Copyright Statement</a> |<a href="#"> Hyperlinking Policy</a> | <a href="#">Terms &
+                    Conditions</a> | <a href="#">Privacy Policy</a> | <a href="#">Disclaimer</a> | Powerd Bombay <a
+                    href="http://sandeshbharat.com/" target="_blank"> Sandesh</a>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>
