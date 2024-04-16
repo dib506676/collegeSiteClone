@@ -1,1 +1,103 @@
+.last{
+    background-color: rgb(32,30,30);
+    display: flex;
+    border: 1px solid black;
+    height: 370px;
+ overflow: hidden;
+ border-collapse: collapse;
 
+}
+.aaa{
+color: white;
+margin-left: 60px;
+margin-top: 50px;
+    width: 1300px;
+height: 360px;
+}
+.bbb{
+color: white;
+margin-left: 60px;
+margin-top: 50px;
+    width: 900px;
+    height: 360px;
+}
+.bbb a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.ccc{
+color: white;
+margin-left: 60px;
+margin-top: 50px;
+    width: 900px;
+    height: 360px;
+}
+.ccc a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.ddd{
+    color: white;
+    margin-left: 60px;
+    margin-top: 50px;
+    width: 1000px;
+    height: 360px;
+}
+.ddd a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.eee{
+    color: white;
+    display: block;
+
+}
+b{
+    color:  rgb(239, 158, 6);
+}
+.link{
+    height: 17px;
+    width: 165px;
+    border: 1px solid red;
+    padding-left: 10px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: gainsboro;
+}
+.fff{
+    background-color: rgb(32,30,30);
+    border: 1px solid  rgb(32,30,30);
+    border-collapse: collapse;
+    margin-top: -12px;
+    font-size: 21px;
+    padding-left: 55px;
+    height: 80px;
+  
+}
+.fff a{
+    color: white;
+    padding: 20px;
+}
+.ggg{
+    background-color: rgb(32,30,30);
+    margin-top: -9px;
+    color: white;
+    padding-left: 290px;
+    height: 50px;
+}
+.ggg a {
+    color: white;
+}
+
+
+.bbb a:hover, .ccc a:hover, .ddd a:hover{
+    color: rgb(239, 158, 6);
+   font-size: 17px;
+}
+
+.ggg a:hover{
+    text-decoration: line-through;
+}
