@@ -1,1 +1,323 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
 
+.heading {
+    width: 99%;
+    height: 98px;
+    display: flex;
+}
+
+.img2 {
+    height: 91px;
+    width: 642px;
+    align-items: right;
+}
+
+.img1 {
+    height: 84px;
+    width: 305px;
+}
+
+.img3 {
+    width: 107px;
+    height: 61px;
+    align-items: right;
+}
+
+.img4 {
+    width: 107px;
+    height: 57px;
+    align-items: right;
+}
+
+.links a {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links {
+    height: 25px;
+    width: 99%;
+}
+
+.mmmut {
+    width: 336px;
+    height: 91px;
+}
+
+.banner {
+    height: 91px;
+    width: 672px;
+}
+
+.government {
+    width: 336px;
+    height: 91px;
+}
+
+.menu-bar {
+    width: 100%;
+    height: 38px;
+    background-color: rgb(77, 73, 73);
+    display: flex;
+}
+.main-list{
+    display: flex;
+}
+.main-list li{
+    margin-left: 23px;
+    margin-top: 9px;
+    font-size: 15px;
+    list-style: none;
+    display: inline-block;
+    position: relative;
+}
+.main-list li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+}
+.list2{
+    background-color: rgb(255, 255, 255);
+    top: 30px; 
+    left: -5px;
+}
+.main-list li .list2 li{
+    display: block;
+     /* position: absolute; */
+    height: auto;
+    width: 195px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    /* top:px; */
+    left: -20px; 
+    padding-top: 10px;
+}
+.main-list li .list2 li:hover{
+    background-color: orange;
+}
+.main-list li .list2{
+    width: 200px;
+    position: absolute;
+    z-index: 999;
+    display: none;
+}
+.main-list li:hover .list2{
+    display: block;
+}
+ /* .list2 li{
+    margin-bottom: 15px;
+    font-size: 15px;
+} */
+.list2 li a{
+    color: black;
+} 
+.home {
+    width: 38px;
+    margin-left: 12px;
+}
+
+.sliders {
+    width: 1018px;
+    height: 250px;
+    overflow: hidden;
+    justify-content: space-between;
+}
+
+.slider {
+    display: flex;
+}
+
+.slider input {
+    display: none;
+}
+
+.img {
+    transition: 2s;
+}
+
+.manual {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 1245px;
+    margin-top: -40px;
+}
+
+.mbtn {
+    border: 1px solid rgb(255, 0, 0);
+    padding: 3px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    width: 50px;
+}
+
+.mbtn :hover {
+    background: brown;
+}
+
+#radio1:checked~.first {
+    margin-left: 0%;
+}
+
+#radio2:checked~.first {
+    margin-left: -100%;
+}
+
+#radio3:checked~.first {
+    margin-left: -200%;
+}
+
+#radio4:checked~.first {
+    margin-left: -300%;
+}
+
+#radio5:checked~.first {
+    margin-left: -400%;
+}
+
+.image {
+    width: 1018px;
+    height: 250px;
+}
+
+.information {
+    display: flex;
+}
+
+.manage {
+     height: 250px; 
+}
+
+.faculty {
+    height: 60px;
+    width: 60px;
+    margin-left: 5px;
+}
+
+.faculty img {
+    height: 58px;
+    width: 58px;
+}
+
+.inf {
+    display: flex;
+    height: 61px;
+    border: 1px solid black;
+}
+
+.content1 {
+    margin-left: 15px;
+}
+
+.patel {
+    margin-left: 46px;
+}
+.content1 h6 a{
+    color: rgb(255, 123, 0);
+}
+
+
+.content1 span {
+    margin-left: 29px;
+}
+
+.content2 {
+    margin-left: 15px;
+}
+
+.content2 span {
+    margin-left: 29px;
+}
+
+.content2 h6 a {
+    margin-left: 28px;
+    color: rgb(255, 123, 0);
+}
+
+
+.content3 {
+    margin-left: 15px;
+}
+.content3 h6 a{
+    color: rgb(255, 123, 0);
+}
+
+.content3 span {
+    margin-left: 38px;
+}
+
+.content4 {
+    margin-left: 15px;
+}
+
+.content4 span {
+    margin-left: 20px;
+}
+
+.content4 h6 a {
+    margin-left: 11px;
+    color: rgb(255, 123, 0);
+}
+
+button {
+    background-color: rgb(255, 123, 0);
+    border-radius: 10px;
+    color: aliceblue;
+    width: 100px;
+    border: none;
+    height: 20px;
+    margin-top: 4px;
+}
+button:hover {
+    background-color: rgb(255, 123, 0);
+    border-radius: 10px;
+    color: aliceblue;
+    width: 100px;
+    height: 20px;
+    margin-top: -4px; 
+}
+
+button a {
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+.video{
+    width: 393px;
+}
+h6{
+    font-size: 10px;
+}
+h2{
+    font-size: 35px;
+    padding-top: 30px;
+}
+.video iframe{
+    padding-top: 20px;
+}
+.comment{
+    width: 790px;
+    margin-left: 40px;
+}
+.about{
+    display: flex;
+    margin: 30px;
+    box-shadow: 1px 1px 10px black;
+}
+.madan{
+    padding-top: 20px;
+    font-size: 25px ;
+}
+.madan2{
+    padding-top: 10px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+}
